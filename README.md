@@ -1,5 +1,5 @@
-<h1 base starter kit for making Node.js + Express.js API with TypeScript</h1>
-<h1 align="center">Notes to be taken from this project:</h1>
+<h1 base starter kit for making Node.js + Express.js API with TypeScript 🛠</h1>
+<h1 align="center">Notes to be taken from this project 🎗:</h1>
 <h6 align="center">keep in mind that this project has been taken just in order to take notes from it.
  
 
