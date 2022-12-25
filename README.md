@@ -4,6 +4,8 @@
  
 
 # About
+![typescript-database-1](https://user-images.githubusercontent.com/101610105/209463842-39c8c231-1cfd-4110-9085-9845f1405132.png)
+![typescript-database-2](https://user-images.githubusercontent.com/101610105/209463845-53c43389-98df-4568-aa71-aa42988f666a.png)
 
 This project is a base starter kit for making Node.js + Express.js API with TypeScript and [typescript-rest](https://github.com/thiagobustamante/typescript-rest).
 It is structured to be fully configured with DB using [TypeORM](https://github.com/typeorm/typeorm), which is going to be fully usable as a go to Kit to get started with your
