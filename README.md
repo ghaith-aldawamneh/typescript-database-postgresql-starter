@@ -16,4 +16,4 @@ next or existing API project.
   - a new smart way for importing and exporting the ts modules from the inner files inside the src file.
   - using the ready typescript-rest library that facilitates the responding issue with basic responing messages.
   - Server.buildServices(app) from the server.d.ts.
-  - when connection we must handle the connection by, getConnection(), connection.connect()
+  - when connection we must handle the connection by, getConnection(), connection.connect().
